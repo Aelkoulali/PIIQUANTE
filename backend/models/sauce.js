@@ -1,5 +1,5 @@
 const mongoose = require("mongoose");
-
+// Create A Schema For All Sauces On The DataBase
 const sauceSchema = mongoose.Schema({
   userId: { type: String, required: true },
   name: { type: String, required: true },
