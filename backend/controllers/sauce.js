@@ -84,7 +84,7 @@ exports.deleteSauce = (req, res, next) => {
     .catch((error) => res.status(500).json({ error }));
 };
 
-// Add + Remove  Like Or Dislike
+// Add Or Remove  Like Or Dislike
 exports.likeOrDislike = (req, res, next) => {
   if (req.body.like === 1) {
     Sauce.updateOne(

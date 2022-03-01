@@ -9,7 +9,7 @@ module.exports = (req, res, next) => {
     const decodedToken = jwt.verify(token, process.env.TOKEN);//Check The Token With A Secret key
     const userId = decodedToken.userId;// Get User ID
     req.auth = { userId };
-    if (req.body.userId && req.body.userId !== userId) {// Check If The User ID On the Body Is different From The Token One
+    if (req.body.userId && req.body.userId !== userId) {// Check If The User ID On the Body Is different From The One With The Token
       throw "Invalid user ID";
     } else {
       next();//iF The ID is valid, we move on to the next middleware
