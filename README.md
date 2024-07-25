@@ -8,7 +8,7 @@
 # HOT TAKES
 Installation
 
-Here are the dependancies you need to install:
+Here are the dependancies you need to install :
 
     NodeJS 12.14 or 14.0.
     Angular CLI 7.0.2.
