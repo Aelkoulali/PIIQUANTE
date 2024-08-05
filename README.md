@@ -1,28 +1,26 @@
-# PIIQUANTE
- Construction d'une API sécurisée pour une application d'avis gastronomiques.
+# 🗂️ PIIQUANTE
+## Construction d'une API sécurisée pour une application d'avis gastronomiques.
  
  
  ![PIKANTE](https://user-images.githubusercontent.com/77611825/169009354-4368ac31-9fc4-48a8-8eca-ffee8843e934.png)
 
 
-# HOT TAKES
-Installation
+# ➡️ HOT TAKES
+## ➡️ Here are the dependancies you need to install :
 
-Here are the dependancies you need to install :
+    ✅ NodeJS 12.14 or 14.0.
+    ✅ Angular CLI 7.0.2.
+    ✅ node-sass : make sure to use the corresponding version to NodeJS. For Noe 14.0 for instance, you need node-sass in version 4.14+.
 
-    NodeJS 12.14 or 14.0.
-    Angular CLI 7.0.2.
-    node-sass : make sure to use the corresponding version to NodeJS. For Noe 14.0 for instance, you need node-sass in version 4.14+.
+✅ On Windows, these installations require to use PowerShell in administrator mode.
 
-On Windows, these installations require to use PowerShell in administrator mode.
-
-Then, clone this repo, run npm install, and run npm install --save-dev run-script-os.
+✅ Then, clone this repo, run npm install, and run npm install --save-dev run-script-os.
 Usage
 
-Run npm start. This should both run the local server and launch your browser.
+✅ Run npm start. This should both run the local server and launch your browser.
 
-If your browser fails to launch, or shows a 404 error, navigate your browser to http://localhost:8080.
+✅ If your browser fails to launch, or shows a 404 error, navigate your browser to http://localhost:8080.
 
-The app should reload automatically when you make a change to a file.
+✅ The app should reload automatically when you make a change to a file.
 
-Use Ctrl+C in the terminal to stop the local server.
+✅ Use Ctrl+C in the terminal to stop the local server.
