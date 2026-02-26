@@ -1,4 +1,4 @@
-# 🗂️ PIIQUANTE - Hot sauces reviews App 
+# 🗂️ PIIQUANTE - Hot sauce App 🌶️
 ## ➡️ Key Concepts :
 ## ✅ 
 ## ✅ 
