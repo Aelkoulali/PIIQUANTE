@@ -1,6 +1,6 @@
 # 🗂️ PIIQUANTE - Hot sauce App 🌶️
 ## ➡️ Key Concepts :
-## ✅ 
+## ✅ JavaScript, HTML & CSS
 ## ✅ 
 ## ✅ 
 ## ✅ 
