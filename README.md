@@ -2,7 +2,7 @@
 ## ➡️ Key Concepts :
 ## ✅ JavaScript, HTML & CSS
 ## ✅ NodeJS Node-sass Angular 
-## ✅ 
+## ✅ Mangodb mangoose
 ## ✅ 
 ## ✅ 
  
